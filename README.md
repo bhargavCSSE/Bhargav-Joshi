@@ -7,9 +7,22 @@ My research interests are in studying spiking neural networks and computational 
 
 ## Work Experience
 
-### Graduate Assistantship, 
+### Graduate Assistantship 
 *September, 2017 - Present* | Auburn University, AL
 
-- **Exploiting vulnerability in Reinforcement Learning**
-  - Used gradient based attacks on Reinforcement Learning (RL) models trained using state of the art methods (PPO, SAC) to detect vulnerability in decision making   of the agent for applications such as self driving cars.
+- **Exploiting vulnerability in Reinforcement Learning**, Graduate Research Assistantship
+  - Used gradient based attacks on Reinforcement Learning (RL) models trained using state of the art methods (PPO, SAC) to detect vulnerability in decision making   of the agent.
+  - Gradient based attack for image type data such as FGSM, was performed on sensor based data in OpenAI-gym's LunarLander and Breakout environments to take the first step towards validating if sensor type data in Reinforcement learning are vulnerable to such attacks. This could potentially be harmful for applications such as self-driving cars where the environment data comes from sensor readings as well as stream of images.
+  - Implemented these algorithms using **PyTorch** and **TensorFlow**.
+
+- **•Exploring applications of Spiking Neural Networks**, Graduate Research Assistantship
+  - Researched to find potential applications of third generation of neural network a.k.a. Spiking Neural Networks (SNN).
+  - Discovered that SNNs can contribute to low power applications, thus better prosthetics, as well as more biological inclined dynamic makes them resistant to adversarial attacks.
+  - Implemented spiking dynamics from scratch in NumPy. Simulated spiking neural network using **NEST simulator** and **pyNEST**.
+  - Performed hello world for machine learning, MNIST image classification, using **nengo** python library for spiking version of convolutional neural network.
+  - Experimented with Reinforcement learning and spiking neural networks. Used **HBP(Human Brain Project)'s framework** to connect **OpenAI-gym environments** to **NEST simulator**.
+
+- **Exploiting vulnerability in Reinforcement Learning**, Graduate Research Assistantship
+  -  Implemented and trained a neural network in MATLAB using the port data of a programmable logic controller (PLC) to detect hacks or alteration in PLC’s operation
+  - Developed a data collection system between PLC’s physical ports and local computer using hardware Rasperry Pi and Shift Registers, and drivers were written in python.
   - Implemented these algorithms using **PyTorch** and **TensorFlow**.
