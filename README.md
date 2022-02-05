@@ -26,3 +26,6 @@ My research interests are in studying spiking neural networks and computational 
   -  Implemented and trained a neural network in MATLAB using the port data of a programmable logic controller (PLC) to detect hacks or alteration in PLC’s operation
   - Developed a data collection system between PLC’s physical ports and local computer using hardware Rasperry Pi and Shift Registers, and drivers were written in python.
   - Implemented these algorithms using **PyTorch** and **TensorFlow**.
+
+- **Graduate Teaching Assitantship**
+  - Machine Learning, Artificial Intelligence, and Assembly Language Programming courses
