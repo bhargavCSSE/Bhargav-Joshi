@@ -15,7 +15,7 @@ My research interests are in studying spiking neural networks and computational 
   - Gradient based attack for image type data such as FGSM, was performed on sensor based data in OpenAI-gym's LunarLander and Breakout environments to take the first step towards validating if sensor type data in Reinforcement learning are vulnerable to such attacks. This could potentially be harmful for applications such as self-driving cars where the environment data comes from sensor readings as well as stream of images.
   - Implemented these algorithms using **PyTorch** and **TensorFlow**.
 
-- **•Exploring applications of Spiking Neural Networks**, Graduate Research Assistantship
+- **Exploring applications of Spiking Neural Networks**, Graduate Research Assistantship
   - Researched to find potential applications of third generation of neural network a.k.a. Spiking Neural Networks (SNN).
   - Discovered that SNNs can contribute to low power applications, thus better prosthetics, as well as more biological inclined dynamic makes them resistant to adversarial attacks.
   - Implemented spiking dynamics from scratch in NumPy. Simulated spiking neural network using **NEST simulator** and **pyNEST**.
@@ -29,3 +29,6 @@ My research interests are in studying spiking neural networks and computational 
 
 - **Graduate Teaching Assitantship**
   - Machine Learning, Artificial Intelligence, and Assembly Language Programming courses
+
+## Projects
+1. **Reinforcement Learning**
