@@ -10,4 +10,4 @@ My research interests are in studying spiking neural networks and computational 
 ### Graduate Assistantship, *September, 2017 - Present*
 Auburn University, AL
 
-1. 
+- Exploiting vulnerability in Reinforcement Learning
