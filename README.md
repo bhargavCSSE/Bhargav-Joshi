@@ -32,4 +32,4 @@ My research interests are in studying spiking neural networks and computational 
 
 ## Projects
 1. **Reinforcement Learning**
-2. 
+2. **Image classification using spiking neural network**
