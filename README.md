@@ -7,7 +7,7 @@ My research interests are in studying spiking neural networks and computational 
 
 ## Work Experience
 
-# Graduate Assistantship, *September, 2017 - Present*
+### Graduate Assistantship, *September, 2017 - Present*
 Auburn University, AL
 
 1. 
