@@ -11,4 +11,5 @@ My research interests are in studying spiking neural networks and computational 
 *September, 2017 - Present* | Auburn University, AL
 
 - **Exploiting vulnerability in Reinforcement Learning**
-  - Used gradient based attacks on Reinforcement Learning (RL) models trained using state of the art methods (PPO, SAC) to detect vulnerability in decision making   of the agent for applications such as self driving cars
+  - Used gradient based attacks on Reinforcement Learning (RL) models trained using state of the art methods (PPO, SAC) to detect vulnerability in decision making   of the agent for applications such as self driving cars.
+  - Implemented these algorithms using **PyTorch** and **TensorFlow**.
