@@ -1,3 +1,5 @@
+# Page is under construction!
+
 ## About Me
 I am a PhD candidate and I have completed master's in computer science and software engineering. I am currently pursuing master's in data science engineering at Auburn University and I graduate in May 2022. I am looking to find a job as Machine Learning Engineer or Data Scientist to gain work experience in professional environment.
 
@@ -22,7 +24,7 @@ My research interests are in studying spiking neural networks and computational 
   - Performed hello world for machine learning, MNIST image classification, using **nengo** python library for spiking version of convolutional neural network.
   - Experimented with Reinforcement learning and spiking neural networks. Used **HBP(Human Brain Project)'s framework** to connect **OpenAI-gym environments** to **NEST simulator**.
 
-- **Exploiting vulnerability in Reinforcement Learning**, _Research Assistantship_
+- **NeuroPLC**, _Research Assistantship_
   -  Implemented and trained a neural network in MATLAB using the port data of a programmable logic controller (PLC) to detect hacks or alteration in PLC’s operation
   - Developed a data collection system between PLC’s physical ports and local computer using hardware Rasperry Pi and Shift Registers, and drivers were written in python.
   - Implemented these algorithms using **PyTorch** and **TensorFlow**.
